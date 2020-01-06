@@ -1,4 +1,4 @@
 Esta es mi historia para
 aprender a utilizar git
 
-una aprendido git las cosas serán más faciles
+una aprendido git las cosas serán más faciles y divertidas
